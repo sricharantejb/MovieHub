@@ -111,8 +111,8 @@ Visit **http://localhost:3000** in your browser.
 ---
 
 ## 🙌 Author
-**Sanjay** - 
-**Sricharantej** — [github.com/sricharantejb](https://github.com/sricharantejb)
+**Sricharantej**
+**Sanjay**
 
 ---
 
