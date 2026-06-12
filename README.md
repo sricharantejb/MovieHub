@@ -110,12 +110,6 @@ Visit **http://localhost:3000** in your browser.
 
 ---
 
-## 🙌 Author
-**Sricharantej**
-**Sanjay**
-
----
-
 ## 📄 License
 
 This project is licensed under the ISC License.
